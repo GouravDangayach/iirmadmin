@@ -1,0 +1,29 @@
+/*=================================================
+  01 Import css file
+=================================================*/
+
+/* Bootstrap */
+@import "../css/bootstrap.min.css";
+
+/* font */
+@import "../css/font-awesome.min.css";
+
+/* crousel */
+@import "../css/owl.carousel.min.css";
+@import "../css/owl.theme.default.min.css";
+
+/* animation */
+@import "../css/animate.css";
+
+/*=================================================
+  02 Fonts and mixins
+=================================================*/
+@import "fonts";
+@import "variables";
+@import "mixins";
+
+/*=================================================
+  03 reset
+=================================================*/
+@import "reset";
+@import "global";

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.858" height="18.146" viewBox="0 0 47.858 18.146">
+  <g id="arrow" transform="translate(-1064.35 -2553.927)">
+    <path id="Icon_ionic-ios-arrow-round-forward" data-name="Icon ionic-ios-arrow-round-forward" d="M25.226,11.6a1.235,1.235,0,0,0-.009,1.739l5.746,5.755H9.094a1.229,1.229,0,0,0,0,2.457H30.953l-5.746,5.755a1.244,1.244,0,0,0,.009,1.739,1.224,1.224,0,0,0,1.729-.009l7.787-7.844h0a1.38,1.38,0,0,0,.255-.387,1.173,1.173,0,0,0,.095-.473,1.232,1.232,0,0,0-.35-.86l-7.787-7.844A1.2,1.2,0,0,0,25.226,11.6Z" transform="translate(1077.125 2542.675)" fill="#1d73f8"/>
+    <line id="Line_4" data-name="Line 4" x1="9" transform="translate(1073.5 2563)" fill="none" stroke="#1d73f8" stroke-linecap="round" stroke-width="2.3"/>
+    <line id="Line_5" data-name="Line 5" x1="4" transform="translate(1065.5 2563)" fill="none" stroke="#1d73f8" stroke-linecap="round" stroke-width="2.3"/>
+  </g>
+</svg>
